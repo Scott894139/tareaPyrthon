@@ -168,3 +168,4 @@ class Jornada:
         self.descripcion=des
         
 
+print ("ruuunnnn")
